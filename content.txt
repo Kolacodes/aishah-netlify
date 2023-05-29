@@ -1,0 +1,322 @@
+
+
+<!-- ##### Modal Section ########################################### -->
+
+
+
+POPUP
+
+If it will not be too cumbersome, if it will, then we only need to pick the key infos
+
+POPUP CONTENT 
+
+
+
+Assalaamu'alaykum wa rahmatuLlahi wa barakaatuh.
+
+Good news to our Muslim Sisters, Mothers and wives! 
+
+Are you a new female graduate waiting for NYSC call up or waiting to join the working class or you are an SSCE holder awaiting admission?! 
+
+Do you seek to know more about your religion and be proficient in Arabic and recitation of the holy Qur’an?! 
+
+Procrastination is the thief of time! 
+
+Admission is ongoing at Madrasatu Aishah into:
+
+Ibtidai 'Idadiy & Thaanawiy classes (Monday to Thursday, 9am-2pm daily)
+
+The Subjects include:
+TAWHEED 
+QUR'AN MEMORISATION 
+ARABIC MORPHOLOGY
+ARABIC GRAMMAR 
+And lots more
+
+So what are you waiting for? 
+
+Pick up a form right away at N2,000 only.
+
+Entry Examination Date
+
+March 8 - 11,2021 ( Rajab 24 -27,1442)
+
+Commencement date : (March 15, 2021) Shaban 1, 1442.( in shaa Allāh)
+
+We also have weekend classes for children. 
+
+For enquiries and details, call
+: 08105592566 08126998293
+
+Or
+
+Visit our website today on
+
+www.madrasatuaaishah.com
+
+You can also visit our school at MB 17, House 5, Wale Oshun Close, Abraham Adesanya Estate, Ajah, Lagos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ##### About Section ########################################### -->
+    <section class="aboutSection">
+      <header class="aboutHeader">
+
+      </header>
+      <div class="card text-center">
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>
+              Aishah Madrasah Lekki is a school of Arabic and Islamic Studies for children and female adults alike. It was established in the year 2013 to cater for the need of the Muslim children in the neigborhood. 
+              Our main aim is to groom individuals who practice prestine Islam and relate with people in good manners.
+              <br>
+              We operate both regular and online classes using a 21st century approach.
+              All in all, we've got to impact this prestine knowledge of Islam. 
+              For we verily believe, that indeed:
+            </p>
+            <footer class="blockquote-footer"><cite title="Source Title">knowledge is light</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+      <br>
+
+    </section>
+
+
+
+
+    
+THE SUBJECTS WE OFFER
+
+Tawheed
+
+Fiqh
+
+Arabiyyah 
+
+Tahfeedh-I-Qur'an
+
+Nahwu
+
+Sarf
+
+Ādāb
+
+and lots more
+
+
+
+
+
+Tawheed
+
+Before we can be proud of our Islam our Tawheed mustn't be shaky or rickety. For that, our foremost priority at Aishah Bint Abibakr is Tawheed.
+
+
+
+Fiqh
+Learning with us won't leave you the same in your understanding of the Islamic jurisprudence. We take care of that by Allah's leave.
+
+
+
+Arabiyyah 
+As Arabic remains the only language of Islam, we make it our business to impact Arabic language in our students in an interesting yet impactful way.
+
+
+Tahfeedh-I-Qur'an
+You've failed time and again while trying to commit the Qur'an to your memory? Enroll today at Aishah Bint Abibakr and the story won't remain the same, insha Allah.
+
+
+
+Nahwu
+We do not offer just spoken Arabic. We take our time to take our students through the nooks and crannies of the Arabic grammar. We do exactly that.
+
+
+
+Sarf
+Sarf as a subject helps speakers of Arabic to navigate through a wide range of the Arabic vocabulary conveniently. For that, at Aaishah Bink Abibakr, we do not take Sarf lightly. 
+
+
+
+and lots more
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <!-- ##### Testimonial Section ########################################### -->
+    <section class="container testimonialSection">
+      
+      <header class="testimonialHeader text-center">
+        <br>
+        <br>
+        <h2>
+          My Aishah Bnt Abibakr Experience
+        </h2>
+      </header>
+      <br>
+      <div class="card text-center">
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p style="color: gray;">                       
+              My children had attended a different Madrasah before bringing them over to Madrasatu Aishah Lekki
+
+              This made it easy for me appraise the quality of service we are receiving.
+
+              I can confidently say my children have made tremendous and remarkable growth in their knowledge of the Qur'an, Arabic and even manners.
+
+              The fee is reasonable for the quality of knowledge the children receive in return.
+
+              I have recommended Aisha bint Abubakr Madrasah to a number of parents and will continue to do so.
+            </p>
+            <!-- <footer class=""><cite style="color: white !important;" title="Source Title">Mrs K Adesina </cite></footer> -->
+            <footer class=""><cite style="color: ghostwhite ; " title="Source Title">-- Mrs K Adesina </cite></footer>
+
+          </blockquote>
+        </div>
+      </div>
+      <br>
+      <div class="card text-center">
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>
+              I recommend Madrasatu Aishah Lekki because it makes my children to discover things which makes them believe that difficult doesn't mean impossible but it simply means that you have to work hard. LEARNING AND UNDERSTANDING THE QURAN AND ARABIC IS GREAT.
+            </p>
+            <footer class="blockquote-footer"><cite title="Source Title">Mrs Mohammed Toyibat Olayinka</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+      <br>
+      <div class="card text-center">
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>
+              An Arabic school with a vivid difference where  individual difference is put into consideration to bring out the best in students. Tested and trusted for the knowledge of the deen and Islamic morals.
+            </p>
+            <footer class="blockquote-footer"><cite title="Source Title">Mrs Adetola Kifayat Adebayo</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+      <br>
+      <div class="card text-center">
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>                    
+              After moving to Ajah axis in December 2017, it became apparent in 2019 that I needed to get a Standard Madrasah for my kids (they were still young when we moved).
+              <br>
+              <br>
+              I started making enquiries and Madrasatul Aishah was recommended. I contacted the Proprietress but learnt that the session starts in January, ends in December and 3yrs & above children will be admitted ( I called around March or so).
+              <br>
+              <br>
+              I had to look forward to the next January because my daughter will be 3 in November same year which will make it possible for her brother and herself to attend together. We went for registration in December and they were enrolled for the 2020 session.
+              <br>
+              <br>
+              Within the first 3 months before the lockdown, I sha knew they're going to Madrasah and will bring assignments. I got attached to them during the online classes.
+              <br>
+              <br>
+              Despite attending a Muslim school that is doing it's best to teach them about Islam, MADRASATU  AISHAH has taken their Islamic education to another level. They (4+ and 3+ kids) can write and identify Arabic Alphabets, identify some objects in Arabic, learnt few adhabs together with what they were taught in school and memorization from the last Surah of the Glorious Qur'an with correct Tajweed.
+              <br>
+              <br>
+              I know this is a starting point and I look forward to them becoming Hafiz and Hafizah Bi Idhni Llah.
+              <br>
+              <br>
+              Some lapses that were identified during the commencement of the online classes were worked on and effected almost immediately. This means that they don't joke with sincere recommendation. 
+              <br>
+              <br>
+              Their fees are affordable or do I say cheap compared to the standard they're offering.
+              <br>
+              <br>
+              Ask me if I can recommend them? I have done that already and will continue doing so Bi Idhni Llah.
+              <br>
+              <br>
+              May Allah continue to strengthen them and reward their efforts.
+            </p>
+            <br>
+            <footer class="blockquote-footer"><cite title="Source Title">Mrs Aishah Akinyemi</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+      <br>
+      <p class="jumbotron" style="background: none !important;">
+          <a class="btn btn-primary btn-large text-center btn2" style="justify-items: center !important;" href="">Get Started</a>
+      </p>
+    </section>
+    
+    
+    
+
+    <!-- ##### Our Programs Section ########################################### -->
+    
+OUR PROGRAMS
+
+REGULAR CLASSES
+
+
+Saturdays & Sundays (9am - 2pm daily) : children classes 
+
+ Saturdays & Sundays ( 2pm - 4pm) : Adult  females classes        
+
+                                                                   
+
+ONLINE CLASSES 
+
+
+Weekdays & weekends 
+
+Arabiyyah Class
+
+Arabic Reading skill class
+
+Hifdh Class
+
+
+For more enquiries , kindly tap the below link.
+
+https://wa.me/message/GATREWWYSBRKL1
+
+
+JazākumuLlāhu Khayran
+    <section class="programSection">
+      <div class="card mb-3 text-center">
+        <!-- <img src="/images/programs2.jpg" class="card-img-top programsImg" alt="..."> -->
+        <img src="/images/alm2.jpg" class="card-img-top programsImg" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        </div>
+      </div>
+    </section>
+    
+    
+
+    <!-- ##### FOOTER SECTION ########################################### -->
+
+    <section class="footerSection">
+      <p>
+        <br>
+        <br>
+        Web Design By Afrocodez
+        <br>
+        <br>
+      </p>
+    </section>

@@ -1,0 +1,25 @@
+{
+    "name": "Madrasatu Aaishah Lekki",
+    "short_name": "Madrasatu Aaishah",
+    "icons": [
+        {
+            "src": "images/aishahicon.png",
+            "sizes": "550x550",
+            "type": "image/png"
+        },
+        {
+            "src": "images/aishahicon.png",
+            "sizes": "550x550",
+            "type": "image/png"
+        },
+        {
+            "src": "images/aishahicon.png",
+            "sizes": "550x550",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#006400",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
